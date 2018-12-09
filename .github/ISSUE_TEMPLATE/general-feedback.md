@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-** Subject **
-A breif summary of this feedback
+**Subject**
+A brief summary of this feedback
 
-** Message **
+**Message**
 More details
